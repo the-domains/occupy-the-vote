@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Occupy the Vote]]></title>
+        <description><![CDATA[Occupy the Vote]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 03 Jul 2016 14:58:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We're fans of democracy. True representative democracy, for all.</p>]]></description>
+            <link>undefinedwere-fans-of-democracy-true-representative-democracy-for/index.html</link>
+            <guid isPermaLink="false">cadba7a1-5cba-469f-a6d7-a4248ef58288</guid>
+            <pubDate>Sun, 03 Jul 2016 14:58:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
